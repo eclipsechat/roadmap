@@ -2,24 +2,23 @@
 The roadmap for Eclipse 2024/2025
 
 ## Stage One - Rewrite
-- Clean Up Code
-- Make backend for Login/Signup, Forgot My Password, and 2FA
-- DM's, Group DM's, Servers Backend Rewrite
-- Make settings functionality
+- ~~Clean Up Code~~
+- Make backend for ~~Login/Signup~~, Forgot My Password, and 2FA
+- ~~DM's, Group DM's~~ (partially, Messages still wont load realtime), Servers Backend Rewrite
+- ~~Make settings functionality~~ (partially)
 - Make messages encrypted API
 - Make API for Bots
 
-## Stage Two - Frontend Redesign + Eclipse AI
-- Start backend of Eclipse AI
-- Convert figma design into CSS
+## Stage Two - Frontend Redesign
+- ~~Convert figma design into CSS~~
 - **ECLIPSE IS NOW IN BETA**
 - Add backend functionality to front end
 - Make Eclipse AI page, add functionality
 
 ## Stage Three - Polishing + Publicize API
 - Fix little bugs (there always is)
-- Design App Designs
-- Add App Designs to Mobile Web users
+- ~~Make Figma App Designs~~
+- ~~Add App Designs to Mobile Web users~~
 - Make developer mode, which shows the API page, with the ability to make bot accounts, and read documentation (JS)
 
 ## Stage Four - Public Beta + App Development
