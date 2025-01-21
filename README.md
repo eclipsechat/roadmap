@@ -4,7 +4,7 @@ The roadmap for Eclipse 2024/2025
 ## Stage One - Rewrite
 - ~~Clean Up Code~~
 - Make backend for ~~Login/Signup~~, Forgot My Password, and 2FA
-- ~~DM's, Group DM's~~ (partially, Messages still wont load realtime), Servers Backend Rewrite
+- ~~DM's, Group DM's~~ (partially, still features i need to finish), Servers Backend Rewrite
 - ~~Make settings functionality~~ (partially)
 - Make messages encrypted API
 - Make API for Bots
